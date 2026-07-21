@@ -61,31 +61,31 @@ Dronevex partnered with The Digital Hike to establish a complete digital presenc
 
 ## Homepage
 
-<img src="images/homepage.png" width="100%">
+<img src="projects/dronevex/image/homepage.png" width="100%">
 
 ---
 
 ## Product Page
 
-<img src="images/product.png" width="100%">
+<img src="projects/dronevex/image/product.png" width="100%">
 
 ---
 
 ## Enterprise Solutions
 
-<img src="images/enterprise.png" width="100%">
+<img src="projects/dronevex/image/enterprise.png" width="100%">
 
 ---
 
 ## Mobile Experience
 
-<img src="images/mobile.png" width="100%">
+<img src="projects/dronevex/image/mobile.png" width="100%">
 
 ---
 
 ## Contact Page
 
-<img src="images/contact.png" width="100%">
+<img src="projects/dronevex/image/contact.png" width="100%">
 
 ---
 
