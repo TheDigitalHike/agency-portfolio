@@ -23,57 +23,42 @@
 ## 📌 Services Delivered
 
 - 🎨 Brand Identity & Logo Design
-- 🌐 WordPress Website Development
+- 🌐 WordPress Website Design & Development
 - 📱 Social Media Management
-- 🎨 Creative Design
-- 🎥 Video Editing
+- 🎥 Creative Production
 - 📈 Meta Ads Lead Generation
-- 📋 Content Strategy
+- ✍️ Content Strategy
+- 💡 Landing Page Optimization
 
 ---
 
 ## 🎯 Project Overview
 
-OnceMore.fit partnered with **The Digital Hike** to build a complete digital ecosystem for its science-backed health and fitness coaching brand. The objective was to establish a trustworthy identity, create a conversion-focused website, build a strong social media presence, and generate qualified consultation leads through strategic Meta advertising. :contentReference[oaicite:2]{index=2}
+OnceMore.fit partnered with **The Digital Hike** to establish a trusted digital presence for its science-backed health and fitness coaching brand. Our objective was to create a premium brand identity, build a high-converting WordPress website, develop engaging social media content, and generate qualified consultation leads through Meta advertising.
 
 ---
 
 ## 🚀 What We Built
 
-- ✅ Brand Identity & Logo
-- ✅ WordPress Website
-- ✅ Program Landing Pages
-- ✅ Consultation Booking Funnel
-- ✅ Social Media Management
-- ✅ Creative Production
-- ✅ Video Editing
-- ✅ Meta Ads Campaigns
-- ✅ Lead Generation System
+- Premium Brand Identity & Logo
+- Conversion-focused WordPress Website
+- Program Pages for PCOS, PCOD, Thyroid, Fat Loss & Body Recomposition
+- Consultation Booking Journey
+- Social Media Management
+- Creative Design & Video Editing
+- Meta Ads Lead Generation Campaigns
+- Scalable Digital Growth System
 
 ---
 
 ## 💡 Key Features
 
-- 🩺 PCOS & PCOD Programs
-- 🦋 Thyroid Management
-- ⚖️ Fat Loss Coaching
-- 💪 Body Recomposition
-- 📅 Consultation Booking System
-- 📱 Multi-platform Social Media Presence
-- 📈 Lead Generation Funnel
-
----
-
-## 📈 Results
-
-The project delivered a complete digital growth system that included:
-
-- A premium brand identity that builds credibility.
-- A conversion-focused WordPress website.
-- Program-based landing pages designed to encourage consultation bookings.
-- Consistent social media management across Instagram, Facebook, LinkedIn, and YouTube.
-- Creative production including statics, carousels, and edited videos.
-- Meta Ads campaigns that generated qualified consultation leads through a scalable marketing funnel. :contentReference[oaicite:3]{index=3}
+- 🏋️ Science-backed wellness programs
+- 🥗 Nutrition-focused coaching
+- 💻 Responsive WordPress website
+- 📅 Consultation booking system
+- 📱 Multi-platform social media management
+- 📈 Meta Ads for qualified lead generation
 
 ---
 
@@ -83,9 +68,41 @@ The project delivered a complete digital growth system that included:
 
 ---
 
-## 📸 Website Showcase
+# 📸 Website Showcase
 
-> 🚧 Screenshots will be added soon.
+## 🏠 Homepage
+
+![Homepage](image/homepage.png)
+
+---
+
+## 💪 Programs Page
+
+![Programs](image/programs.png)
+
+---
+
+## 🌿 Services
+
+![Services](image/services.png)
+
+---
+
+## 👩‍⚕️ About
+
+![About](image/about.png)
+
+---
+
+## 📱 Mobile Experience
+
+![Mobile](image/mobile.png)
+
+---
+
+## 📞 Contact Page
+
+![Contact](image/contact.png)
 
 ---
 
@@ -95,12 +112,19 @@ The project delivered a complete digital growth system that included:
 
 ---
 
-## 🤝 Partner
+## ✨ Project Highlights
 
-This project was designed and executed by **The Digital Hike**, delivering branding, website development, creative production, social media management, and performance marketing as one integrated digital growth system.
+- Built a calm, trustworthy wellness brand identity
+- Designed a conversion-focused WordPress website
+- Structured dedicated program pages for health conditions
+- Managed social media across Instagram, Facebook, YouTube & LinkedIn
+- Produced creatives including statics, carousels & videos
+- Executed Meta Ads campaigns to generate qualified consultation leads
+- Created a scalable digital marketing ecosystem supporting long-term growth
 
 ---
 
 ## ← Back to Portfolio
 
+[⬅ Return to Portfolio](../../README.md)
 [⬅ Return to Portfolio](../../README.md)
