@@ -1,8 +1,5 @@
-<p align="left">
-  <img src="assets/logo.png" alt="dronevex Logo" width="220">
-</p>
-
-<p align="center">
+<p>
+  <img src="assets/logo.png" alt="Dronevex Logo" width="50" align="left">
   <strong>Building a full digital growth engine for a new drone & robotics brand from launch to scalable growth.</strong>
 </p>
 
