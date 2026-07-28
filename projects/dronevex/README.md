@@ -53,39 +53,39 @@ Dronevex partnered with The Digital Hike to establish a complete digital presenc
 
 ## 🎥 Project Walkthrough
 
-▶️ **[Watch Demo Video](dronevex-demo.mp4)**
+▶️ **[Watch Demo Video](dronevex-demo.webm)**
 
 ---
 
 # 📸 Website Showcase
 
-## Homepage
+## 🏠 Homepage
 
-<img src="projects/dronevex/image/homepage.png" width="100%">
-
----
-
-## Product Page
-
-<img src="projects/dronevex/image/product.png" width="100%">
+![Homepage](image/homepage.png)
 
 ---
 
-## Enterprise Solutions
+## 📦 Product Page
 
-<img src="projects/dronevex/image/enterprise.png" width="100%">
-
----
-
-## Mobile Experience
-
-<img src="projects/dronevex/image/mobile.png" width="100%">
+![Product Page](image/product.png)
 
 ---
 
-## Contact Page
+## 🏢 Enterprise Solutions
 
-<img src="projects/dronevex/image/contact.png" width="100%">
+![Enterprise Solutions](image/enterprise.png)
+
+---
+
+## 📱 Mobile Experience
+
+![Mobile Experience](image/mobile.png)
+
+---
+
+## 📞 Contact Page
+
+![Contact Page](image/contact.png)
 
 ---
 
