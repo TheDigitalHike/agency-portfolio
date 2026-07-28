@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="assets/logo.png" alt="OnceMore.fit Logo" width="220">
-</p>
-
-<p align="center">
+<p>
+  <img src="assets/logo.png" alt="Dronevex Logo" width="50" align="left">
   <strong>Building a science-backed wellness brand with a high-converting digital ecosystem—from branding to lead generation.</strong>
 </p>
-
----
 
 ## 🌐 Client
 
