@@ -6,7 +6,7 @@
 
 ## 🌐 Client
 
-**Dronevex**
+**Client:** Dronevex
 
 **Industry:** Consumer & Enterprise Drones
 
@@ -29,25 +29,25 @@
 
 ## 🎯 Project Overview
 
-Dronevex partnered with The Digital Hike to establish a complete digital presence in the rapidly growing drone and robotics industry. Our objective was to create a scalable ecosystem capable of serving both consumer and enterprise customers.
+Dronevex partnered with **The Digital Hike** to establish a complete digital presence in the rapidly growing drone and robotics industry. Our objective was to create a scalable digital ecosystem capable of serving both consumer and enterprise customers while driving measurable business growth.
 
 ---
 
 ## 🚀 What We Built
 
-- Conversion-focused website
-- Consumer & enterprise user journeys
-- Google Ads strategy
-- Meta Ads campaigns
-- SEO implementation
-- Content marketing
-- B2B lead generation funnel
+- ✅ Conversion-focused website
+- ✅ Consumer & Enterprise user journeys
+- ✅ Google Ads strategy
+- ✅ Meta Ads campaigns
+- ✅ SEO implementation
+- ✅ Content marketing
+- ✅ B2B lead generation funnel
 
 ---
 
 ## 📄 Case Study
 
-➡️ **[Download the Complete Case Study](dronevex-case-study.pdf)**
+📥 **[Download the Complete Case Study](dronevex-case-study.pdf)**
 
 ---
 
@@ -91,7 +91,7 @@ Dronevex partnered with The Digital Hike to establish a complete digital presenc
 
 ## 🌍 Live Website
 
-https://dronevex.in
+🔗 https://dronevex.in
 
 ---
 
