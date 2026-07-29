@@ -15,7 +15,7 @@
 
 **Duration:** 4 Months
 
-**Website:** https://www.modernmetalsindia.com
+**Website:** https://asmnorthindia.org/
 
 ---
 
@@ -72,27 +72,27 @@ Modern Metals India partnered with The Digital Hike to modernize its digital pre
 
 ---
 
-### ⚙️ Services
+### ⭐ Why Choose Us
 
-![Services](image/services.png)
+![Why Choose Us](image/why%20choose%20us.png)
 
 ---
 
-### 🏭 Industries
+### 📱 Mobile Experience
 
-![Industries](image/industries.png)
+![Mobile Experience](image/mobile.png)
 
 ---
 
 ### 📞 Contact
 
-![Contact](image/contact.png)
+![Contact](image/contact%20us.png)
 
 ---
 
 ## 🌍 Live Website
 
-https://www.modernmetalsindia.com
+https://asmnorthindia.org/
 
 ---
 
