@@ -1,4 +1,7 @@
-# 🏭 Modern Metals India
+<h1 align="left">
+  <img src="assets/logo.png" alt="Modern Metals India Logo" height="60" style="vertical-align:middle;">
+  Modern Metals India
+</h1>
 
 > **Transforming four decades of engineering expertise into a modern, high-performance digital presence.**
 
